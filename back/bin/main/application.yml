@@ -1,0 +1,8 @@
+api:
+  auth:
+    header:
+      name: "Authorization"
+      value: "87de544a-3d4f-419d-8df9-cd82321be33a"
+    user:
+      username: "aescobar"
+      password: "123456"
