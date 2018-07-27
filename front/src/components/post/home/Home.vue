@@ -9,7 +9,7 @@ import Postit from '../../shared/post-it/Postit.vue';
 import PostService from '../../../services/PostService';
 
 export default {
-    components: {
+  components: {
       'post-it' : Postit
     },
     data() {
